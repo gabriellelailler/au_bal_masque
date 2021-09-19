@@ -1,0 +1,71 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato&family=Montserrat&family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato&family=Montserrat:ital,wght@0,400;1,900&family=Rubik+Beastly&display=swap');
+
+body {
+  margin: 0px;
+  background: #CFD11A;
+  color: #322E18;
+  font-family: Montserrat, sans-serif;
+        font-size: 18px;
+  font-weight: lighter;
+}
+h1, h2, h3 {
+  font-family: Bebas Neue;
+  font-weight: bold;
+}
+h1 {
+        font-size: 65px;
+  color: #CA1551;
+}
+h2 {
+  font-size: 24px;
+  color: #595959;
+}
+a {
+  color: #322E18;
+  text-decoration: none;
+}
+a:hover {
+  color: #322E18;
+}
+
+.enigma{
+  text-align: center;
+  padding: 150px 0px;
+}
+
+h4 {
+font-family: Bebas Neue;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+h5 {
+font-family: Montserrat black 900 italic;
+  font-weight: bold;
+  font-size: 30px;
+  color: #CA1551;
+}
+
+.DEBUT{
+  text-align: center;
+  padding: 150px 0px;
+}
+
+.END{
+  text-align: center;
+  padding: 150px 0px;
+}
+
+.bravo{
+   text-align: center;
+  padding: 150px 0px;
+}
+
+.END{
+  text-align: center;
+  padding: 150px 0px;
+  font-weight: bold;

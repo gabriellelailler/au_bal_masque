@@ -4,8 +4,8 @@
 
 body {
   margin: 0px;
-  background: #0D1F2D;
-  color: #F7FF85;
+  background: #8B575C;
+  color: #FFB7FF;
   font-family: Montserrat, sans-serif;
   font-size: 30px;
   font-weight: lighter;
@@ -17,19 +17,19 @@ h1, h2, h3 {
 h1 {
   font-size: 120px;
   font-family: Staatliches;
-  color: #F7FF85;
+  color: #B2FFA9;
 }
 h2 {
   font-size: 60px;
   font-family: Montserrat;
   font-weight: 900;
   font-style: italic;
-  color: #F57266;
+  color: #E22869;
 }
 h3 {
 
   font-size: 40px;
-  color: #F7FF85;
+  color: #84DAEB;
   font-family: Montserrat;
   font-weight: 700;
   font-style: italic;
